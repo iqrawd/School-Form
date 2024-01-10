@@ -1,0 +1,21 @@
+h1{
+   color:rgb(134, 22, 74);
+   text-align: center;
+   border-style: double;
+   height:100px;
+   width: 400px;
+   border-color: black;
+   border-width: 3px;
+   
+}
+h2{
+    color: rgb(60, 22, 199);
+    border-style: double;
+    text-align: center;
+    border-color: black;
+    height:60px;
+    width: 200px;
+}
+body{
+    background-color:rgb(241, 155, 223);
+}
